@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a fourth-year Ph.D. student specializing in AI and machine learning, with over six years of research experience focusing on advanced reinforcement learning and optimization for wireless communication networks. My research seeks to design scalable, generalizable AI models that excel in real-world and out-of-distribution scenarios. Recently, I have been working on integrating cutting-edge multi-modal foundation models to address complex challenges in network management, resource allocation, and decision-making within O-RAN systems.
+
+- 💬 Don't hesitate to email me if you're interested in discussing further.
